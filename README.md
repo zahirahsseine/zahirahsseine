@@ -22,14 +22,14 @@ I working as a software developer for 6 years , during this experience i develop
 ## Example Of Works:
 
 ### App for tracking cases of covid-19 depending in countries:
-<a target="_blank" href="#"><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/Screenshot_2020-05-14-14-10-11.png" width="250" /></a>
+<a  href="#" target="_blank"><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/Screenshot_2020-05-14-14-10-11.png" width="250" /></a>
 
 ### Quiz mobile app for descovering more important success stories:
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.quizwhos.quizsuccesspeople"><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/Screenshot_2020-05-26-04-45-56.png" width="250" /></a>
+<a  href="https://play.google.com/store/apps/details?id=com.quizwhos.quizsuccesspeople" target="_blank" ><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/Screenshot_2020-05-26-04-45-56.png" width="250" /></a>
 
 
 ### Track-goal mobile app for tracking your goals:
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.trackgoal"><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/trackgoal.png" width="250" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.trackgoal" target="_blank"><img src="https://github.com/zahirahsseine/zahirahsseine/blob/master/trackgoal.png" width="250" /></a>
 
 #### If you need more information about my profile , please checkout my account linkdin:https://www.linkedin.com/in/zahira-hsseine-16826a46/
 
