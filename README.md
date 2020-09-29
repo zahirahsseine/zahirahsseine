@@ -7,5 +7,5 @@ I working as a software developer for 6 years , during this experience i develop
 
 If you need more information about my profile , please checkout my account linkdin:https://www.linkedin.com/in/zahira-hsseine-16826a46/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zahirahsseine)
 
