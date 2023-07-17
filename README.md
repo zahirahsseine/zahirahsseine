@@ -1,7 +1,6 @@
 
 ### Hi there 👋,
 #### I am  Zahira HSSEINE from Morocco, I am FullStack developer
-![I am FullStack developer]()
 
 I am Zahira HSSEINE ,i'm a fullstack developer , i'm realy facinate by making web and mobile project. I enjoy also making ui,ux design. 
 I like also discover the new technolgies spetialy if its offer some advange for coding less or making perty design.
