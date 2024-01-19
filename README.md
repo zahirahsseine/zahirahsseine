@@ -2,8 +2,8 @@
 ### Hi there 👋,
 #### I am  Zahira HSSEINE from Morocco, I am FullStack developer
 
-I am Zahira HSSEINE ,i'm a fullstack developer , i'm realy facinate by making web and mobile project. I enjoy also making ui,ux design. 
-I like also discover the new technolgies spetialy if its offer some advange for coding less or making perty design.
+As a full-stack developer, my name is Zahira HSSEINE, and I really enjoy working on online and mobile projects. I also like creating ux and ui designs. 
+I enjoy learning about new technologies as well, especially if they provide advantages like reduced coding or attractive design.
 
 I working as a software developer for 6 years , during this experience i develop several project web using .net framework and .net core as an environment of working in the other hand i use some framework for front-end like bootstrap and angular. Also i work in mobile project using native code android and hyrbrid framework like react native.
 
@@ -12,7 +12,7 @@ I working as a software developer for 6 years , during this experience i develop
 
 ## Skills : 
 :computer: .NET FRAMEWORK, .NET CORE.
-:pager: ASP.NET, MVC, ANGULAR,BOOTSTRAP.
+:pager: ASP.NET, RASOR, BOOTSTRAP.
 :iphone: REACT NATIVE, ANDROID.
 
 
